@@ -1,2 +1,2 @@
 # code_diary
-Only Code
+Only Code.
